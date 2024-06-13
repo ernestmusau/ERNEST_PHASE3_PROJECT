@@ -10,21 +10,30 @@ BASIC CHATBOT
 # Description
 This chatbot will be capable of engaging in simple conversations with users, learning from interactions, and improving its responses over time
 ## mvp features
--User Input Handling
--Keyword Recognition and Response Generation
--Conversation Loop
--Basic Conversation Flow
+-User Input Handling.
+
+-Keyword Recognition and Response Generation.
+
+-Conversation Loop.
+
+-Basic Conversation Flow.
 
 ## project user stories
--As a user, I want to start the chatbot so that I can begin a conversation
--As a user, I want to be able to greet the chatbot and recieve a friendly response
--As a user, I want to ask the chatbot for help so that I know how to ineract with it
--As a user, I want to be able to say goodbye to the chatbot so that I can end the conversation politely
+-As a user, I want to start the chatbot so that I can begin a conversation.
+
+-As a user, I want to be able to greet the chatbot and recieve a friendly response.
+
+-As a user, I want to ask the chatbot for help so that I know how to ineract with it.
+
+-As a user, I want to be able to say goodbye to the chatbot so that I can end the conversation politely.
+
 
 ## Installation Requirements
 Git.
-python3 installed
-sqlite installed
+
+python3 installed.
+
+sqlite installed.
 
 
 ### Installation instruction
@@ -37,8 +46,9 @@ https://github.com/ernestmusau/ERNEST_PHASE3_PROJECT.git
 [Git](https://github.com/ernestmusau/ERNEST_PHASE3_PROJECT.git)
 
 ## Technologies used
-Python
-SQLite: A database used to store movie and user information.
+Python.
+
+SQLite: A database used to store responses.
 
 ## Support and contact details
 github.com/ernestmusau
