@@ -45,14 +45,18 @@ https://github.com/ernestmusau/ERNEST_PHASE3_PROJECT.git
 
 # Live Link
 [Git](https://github.com/ernestmusau/ERNEST_PHASE3_PROJECT.git)
+[Gmail](ernestmusau157@gmail.com)
 
 ## Technologies used
 Python.
 
 SQLite: A database used to store responses.
 
+CLI.
+
 ## Support and contact details
-github.com/ernestmusau
+
+https://github.com/ernestmusau
 
 ### License
 The content of this site is licensed under the MIT license
